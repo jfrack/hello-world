@@ -6,9 +6,9 @@
 </head>
 <body>
 	<?php
-	echo '<h1><p>Hello World!  You are visiting ';
+	echo '<h1><p>Hello World!</p>  <p>You are visiting ';
 	echo $_SERVER['SERVER_NAME'];
-	echo ' on Google Drive.</p></h1>'
+	echo '.</p></h1>'
 	?> 
 </body>
 </html>
